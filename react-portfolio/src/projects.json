@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Code Quiz Challange",
+    "desc": "A game of multiple choice questions which helps to assess the basics of JavaScript knowledge.",
+    "link": "https://schaudhary4657.github.io/code-quiz/",
+    "github": "https://github.com/schaudhary4657/code-quiz",
+    "image": "../images/Code Quiz Challange.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Employee Summary - Template Engine",
+    "desc": "A command line application generator for a software engineering team. The application prompts the user for information about the team manager and then information about the team members. Once you're done adding memebers, an HTML file will generate the team.",
+    "link": "https://github.com/schaudhary4657/Employee_Summary-Template_Engine",
+    "github": "https://github.com/schaudhary4657/Employee_Summary-Template_Engine",
+    "image": "../images/Employee Summary - Template Engine.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Budget Tracker",
+    "desc": "A user can add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
+    "link": "https://budget-tracker-sapana.herokuapp.com/",
+    "github": "https://github.com/schaudhary4657/budget-tracker",
+    "image": "../images/Budget Tracker.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Work Day Scheduler",
+    "desc": "A simple calendar application that allows the user to save events for each hour of the day. The application displays the current day with color coded timeblocks, so that the user can know whether the time slot is in the past, the present, or the future.",
+    "link": "https://schaudhary4657.github.io/week5-work-day-scheduler/",
+    "github": "https://github.com/schaudhary4657/week5-work-day-scheduler",
+    "image": "../images/Work Day Scheduler.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Eat Da Burger",
+    "desc": "A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. A user can create their own custom name burger",
+    "link": "https://eat-da-burger-express.herokuapp.com/",
+    "github": "https://github.com/schaudhary4657/Eat-Da-Burger_Express-Handlebars",
+    "image": "../images/Eat Da Burger.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Weather Dashboard",
+    "desc": "A weather dashboard with search functionality to find current weather conditions and the future weather outlook for multiple cities.",
+    "link": "https://schaudhary4657.github.io/weather-dashboard/",
+    "github": "https://github.com/schaudhary4657/weather-dashboard",
+    "image": "../images/Weather Dashboard.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Password Generator",
+    "desc": "A tool that creates a password automatically based on the criteria that a user set to create random passwords every time. It uses a combination of alphabets uppercase and lowercase, numbers, and symbols to create an arbitrary string of characters i.e., password that does not resemble any words or names.",
+    "link": "https://schaudhary4657.github.io/password-generator/",
+    "github": "https://github.com/schaudhary4657/password-generator",
+    "image": "../images/Password Generator.jpg"
+  }
+]
