@@ -10,11 +10,11 @@ function Form() {
           <ul>
             <div className="contact__container">
               <label ><i className="fal fa-user contact__icon"></i></label>
-              <input className="contact__input" type="text" placeholder="e.g. Alex Smith" id="name" name="user_name" />
+              <input className="contact__input" type="text" placeholder="e.g. John Smith" id="name" name="user_name" />
             </div>
             <div className="contact__container">
               <label><i className="fal fa-envelope contact__icon"></i></label>
-              <input className="contact__input" type="text" placeholder="e.g. alexsmith@gmail.com" id="email" name="user_email" />
+              <input className="contact__input" type="text" placeholder="e.g. name@example.com" id="email" name="user_email" />
             </div>
             <div className="contact__container">
               <label><i className="fal fa-comment-lines contact__icon"></i></label>
